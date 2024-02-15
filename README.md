@@ -42,7 +42,7 @@
             <h2>Experience</h2>
             <h3>IT Specialist</h3>
             <p>Specialized in Python and CSS</p>
-            <p>Worked for a small country in India for two years on a contract basis.</p>
+            <p>Worked for a small company in India for two years on a contract basis.</p>
             <p>Duration: 2 years</p>
         </div>
 
